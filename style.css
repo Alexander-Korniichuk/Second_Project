@@ -79,4 +79,11 @@
     top:0px;
     display: none;
 }
+.new_class{
+    border:1px solid red;
+}
+.new_class_Again{
+    border:1px solid red;
+    background-color:blue;
+}
 
